@@ -1,5 +1,4 @@
-# SkyTakeOut-Springboot
-大一新手第一个练手项目
+SkyTakeOut-Springboot
 技术栈：Spring Boot 2.7 + MySQL 8.0 + Redis 6 + RabbitMQ 3.9 + Nginx  
 
   项目亮点  
